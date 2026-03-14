@@ -1,0 +1,131 @@
+[
+  {
+    "companyDomain": "figma.com",
+    "companyName": "Figma",
+    "source": "greenhouse",
+    "careersUrl": "https://boards.greenhouse.io/figma",
+    "jobId": "greenhouse-7891234560",
+    "title": "Senior Software Engineer, Infrastructure",
+    "location": "San Francisco, California",
+    "locationCity": "San Francisco",
+    "locationCountry": "United States",
+    "remote": "hybrid",
+    "employmentType": "Full-time",
+    "department": "Engineering",
+    "seniority": "Senior",
+    "postedAt": "2026-02-20T14:00:00.000+00:00",
+    "applyUrl": "https://boards.greenhouse.io/figma/jobs/7891234560",
+    "skills": [
+      "Distributed systems",
+      "Kubernetes",
+      "Go",
+      "Cloud infrastructure",
+      "Observability"
+    ],
+    "requirements": [
+      "5+ years of experience in infrastructure or platform engineering",
+      "Strong proficiency in Go or similar systems language",
+      "Experience with Kubernetes and container orchestration at scale"
+    ],
+    "responsibilities": [
+      "Design and build scalable infrastructure for Figma's core platform",
+      "Improve reliability, performance, and cost-efficiency of cloud systems",
+      "Partner with product engineering teams to solve infrastructure challenges"
+    ],
+    "benefits": [
+      "Competitive salary and equity",
+      "Health, dental, and vision insurance",
+      "Flexible PTO"
+    ],
+    "salary": "$180,000 - $250,000 per year",
+    "descriptionText": "We are looking for a Senior Software Engineer to join our Infrastructure team...",
+    "descriptionHtml": "<p>We are looking for a Senior Software Engineer to join our Infrastructure team...</p>",
+    "scrapedAt": "2026-03-14T09:00:00.000Z"
+  },
+  {
+    "companyDomain": "figma.com",
+    "companyName": "Figma",
+    "source": "greenhouse",
+    "careersUrl": "https://boards.greenhouse.io/figma",
+    "jobId": "greenhouse-7891234561",
+    "title": "Product Designer",
+    "location": "New York, New York",
+    "locationCity": "New York",
+    "locationCountry": "United States",
+    "remote": "on-site",
+    "employmentType": "Full-time",
+    "department": "Design",
+    "seniority": "Mid",
+    "postedAt": "2026-02-25T10:30:00.000+00:00",
+    "applyUrl": "https://boards.greenhouse.io/figma/jobs/7891234561",
+    "skills": [
+      "Product design",
+      "Figma",
+      "User research",
+      "Prototyping",
+      "Design systems"
+    ],
+    "requirements": [
+      "3+ years of experience in product design",
+      "Strong portfolio demonstrating end-to-end design process",
+      "Experience collaborating with engineers and PMs in agile teams"
+    ],
+    "responsibilities": [
+      "Own design for a key product surface area from concept to launch",
+      "Conduct user research to inform design decisions",
+      "Collaborate with cross-functional partners to ship high-quality experiences"
+    ],
+    "benefits": [
+      "Competitive salary and equity",
+      "Health, dental, and vision insurance",
+      "Learning and development stipend"
+    ],
+    "salary": "$130,000 - $175,000 per year",
+    "descriptionText": "We are looking for a talented Product Designer to join our team...",
+    "descriptionHtml": "<p>We are looking for a talented Product Designer to join our team...</p>",
+    "scrapedAt": "2026-03-14T09:01:12.000Z"
+  },
+  {
+    "companyDomain": "walmart.com",
+    "companyName": "Walmart",
+    "source": "oracle",
+    "careersUrl": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/jobs",
+    "jobId": "oracle-wm-5523901",
+    "title": "Staff Data Engineer",
+    "location": "Bentonville, Arkansas",
+    "locationCity": "Bentonville",
+    "locationCountry": "United States",
+    "remote": "hybrid",
+    "employmentType": "Full-time",
+    "department": "Data Engineering",
+    "seniority": "Staff",
+    "postedAt": "2026-03-01T08:00:00.000+00:00",
+    "applyUrl": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/5523901",
+    "skills": [
+      "Apache Spark",
+      "Python",
+      "SQL",
+      "Data pipeline design",
+      "Cloud data platforms"
+    ],
+    "requirements": [
+      "7+ years of experience in data engineering",
+      "Proficiency in Spark, Python, and SQL",
+      "Experience building large-scale data pipelines on cloud platforms"
+    ],
+    "responsibilities": [
+      "Architect and implement scalable data pipelines for retail analytics",
+      "Mentor junior engineers and establish best practices",
+      "Partner with data science teams to productionize ML models"
+    ],
+    "benefits": [
+      "Medical, dental, and vision coverage",
+      "401(k) with company match",
+      "Associate discount"
+    ],
+    "salary": "$120,000 - $160,000 per year",
+    "descriptionText": "Walmart is seeking a Staff Data Engineer to join our growing data platform team...",
+    "descriptionHtml": "<p>Walmart is seeking a Staff Data Engineer to join our growing data platform team...</p>",
+    "scrapedAt": "2026-03-14T09:02:35.000Z"
+  }
+]
