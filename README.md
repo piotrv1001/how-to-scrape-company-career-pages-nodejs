@@ -2,6 +2,8 @@
 
 This example shows how to scrape company career pages in Node.js using the [Company Career Page Scraper](https://apify.com/piotrv1001/company-career-page-scraper) actor on Apify. No browser automation or HTML parsing needed — just pass in company URLs and get back structured job listings.
 
+![Company Career Page Scraper results](company_career_results.png)
+
 ## What this example does
 
 - Calls the Company Career Page Scraper actor via the Apify API
