@@ -123,6 +123,10 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each job li
 
 **[Open the Company Career Page Scraper on Apify](https://apify.com/piotrv1001/company-career-page-scraper)**
 
+## Related resources
+
+- [How to Scrape Jobs from Any Company Career Page](https://www.falconscrape.com/blog/how-to-scrape-jobs-from-any-company-career-page) — blog post covering the scraping approach in depth
+
 ## License
 
 MIT
