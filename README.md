@@ -126,6 +126,7 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each job li
 ## Related resources
 
 - [How to Scrape Jobs from Any Company Career Page](https://www.falconscrape.com/blog/how-to-scrape-jobs-from-any-company-career-page) — blog post covering the scraping approach in depth
+- [How to Scrape Company Career Pages with Node.js](https://www.youtube.com/watch?v=w3BNQQHPylU) — YouTube video tutorial walkthrough
 
 ## License
 
